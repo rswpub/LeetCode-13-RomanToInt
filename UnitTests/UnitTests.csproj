@@ -21,4 +21,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LeetCode-13-RomanToInt\LeetCode-13-RomanToInt.csproj" />
+  </ItemGroup>
+
 </Project>
