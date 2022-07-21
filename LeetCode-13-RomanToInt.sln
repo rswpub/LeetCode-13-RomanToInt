@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode-13-RomanToInt", "LeetCode-13-RomanToInt\LeetCode-13-RomanToInt.csproj", "{29D2DE79-51A4-4496-92DF-4EDAF03F9D36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{43D034FB-C818-4AC7-B9E0-D272CD250193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29D2DE79-51A4-4496-92DF-4EDAF03F9D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D2DE79-51A4-4496-92DF-4EDAF03F9D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D2DE79-51A4-4496-92DF-4EDAF03F9D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D2DE79-51A4-4496-92DF-4EDAF03F9D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D034FB-C818-4AC7-B9E0-D272CD250193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D034FB-C818-4AC7-B9E0-D272CD250193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D034FB-C818-4AC7-B9E0-D272CD250193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D034FB-C818-4AC7-B9E0-D272CD250193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA7E86F7-7576-49BC-AB91-23B2A01A0AEF}
+	EndGlobalSection
+EndGlobal
